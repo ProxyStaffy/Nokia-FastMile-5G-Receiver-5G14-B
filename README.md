@@ -2,7 +2,7 @@
 
 CVE-2022-38788
 
-AV:A/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:L (5,5)
+CVSS v3.1 Vector:AV:A/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:L (5,5)
 
 [Description]
 
